@@ -6,4 +6,4 @@ This acknowledgement text eventually gets outdated due to updates to the used to
 
 Pull requests are welcome!
 
-Social preview image by [https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](Markus Spiske) on [https://unsplash.com/photos/cvBBO4PzWPg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText](Unsplash)
+Social preview image by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/cvBBO4PzWPg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
